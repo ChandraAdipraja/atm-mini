@@ -1,0 +1,3 @@
+chandra,0.00
+jenkun,41000.00
+kairi,24000.00

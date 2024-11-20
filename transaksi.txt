@@ -1,0 +1,12 @@
+jenkun,jenkun,50000.00,Setor Tunai
+jenkun,renejay,25000.00,Transfer
+jenkun,jenkun,25000.00,Setor Tunai
+jenkun,renejay,5000.00,Transfer
+jenkun,jenkun,5000.00,Transfer
+jenkun,renejay,5000.00,Transfer
+jenkun,jenkun,50.00,Transfer
+jenkun,jenkun,8000.00,Transfer
+jenkun,jenkun,1000.00,Transfer
+kairi,kairi,50000.00,Setor Tunai
+kairi,kairi,25000.00,Tarik Tunai
+kairi,jenkun,1000.00,Transfer
